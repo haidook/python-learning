@@ -16,11 +16,11 @@ choices = ['rock', 'scissors', 'paper']
 player = input('Enter your name: ')
 print(f'Hello, {player}')
 score = 0
-rating = open('rating.txt', 'r')
-for line in rating:
-    if player == line.split(' ')[0]:
-        score = int(line.split(' ')[1][:-1])
-rating.close()
+# rating = open('rating.txt', 'r')
+# for line in rating:
+#     if player == line.split(' ')[0]:
+#         score = int(line.split(' ')[1][:-1])
+# rating.close()
 
 user_choices = [name for name in input().split(',')]
 # user_choices = all_choices
