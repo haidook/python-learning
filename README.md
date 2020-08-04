@@ -42,6 +42,9 @@ You have been active for 39 days and completed:
 > loops, conditions and statement branches. And also you will learn the basics
 > of SQLAlchemy to manage SQLite database on python!
 
+### Medium - Numeric Matrix Processor
+> Apart from learning a whole lot about matrices, you will become familiar with the Math library, recursion, and the many ways of using nested lists in practice.
+
 ### Hard - Password Hacker
 > You will learn how hacking works. You will work with iterators and
 > generators, and you’ll learn a little something about the itertools module –
