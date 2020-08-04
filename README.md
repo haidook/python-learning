@@ -1,15 +1,15 @@
 # python-learning
-_Last update: 16.07.2020_
+_Last update: 04.08.2020_
 
 My journey on [hyperskill.org](https://hyperskill.org/).
 
-Topics completed 90/228 (39%).
+Topics completed 124/228 (52%).
 
-You have been active for 28 days and completed:
-- 9 projects
-- 871 problems
-- 90 topics
-- 25 problems of the day
+You have been active for 39 days and completed:
+- 11 projects
+- 1166 problems
+- 124 topics
+- 30 problems of the day
 
 # Projects completed
 
@@ -38,4 +38,13 @@ You have been active for 28 days and completed:
 >In this project, you will find out how the banking system works and learn about SQL. We'll also see how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, you'll get new experience in Python.
 
 ### Medium - To-Do List
-> To-Do list that will help you manage your tasks. You will practice using loops, conditions and statement branches. And also you will learn the basics of SQLAlchemy to manage SQLite database on python!
+> To-Do list that will help you manage your tasks. You will practice using
+> loops, conditions and statement branches. And also you will learn the basics
+> of SQLAlchemy to manage SQLite database on python!
+
+### Hard - Password Hacker
+> You will learn how hacking works. You will work with iterators and
+> generators, and you’ll learn a little something about the itertools module –
+> one of the most powerful features of Python. You will practice developing a
+> client app and connecting to a server using the socket module. The project
+> will also get you acquainted with JSON and the time module.
