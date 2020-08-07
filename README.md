@@ -1,15 +1,15 @@
 # python-learning
-_Last update: 04.08.2020_
+_Last update: 07.08.2020_
 
 My journey on [hyperskill.org](https://hyperskill.org/).
 
-Topics completed 124/228 (52%).
+Topics completed 134/228 (56%).
 
 You have been active for 39 days and completed:
-- 11 projects
-- 1166 problems
-- 124 topics
-- 30 problems of the day
+- 12 projects
+- 1237 problems
+- 135 topics
+- 31 problems of the day
 
 # Projects completed
 
@@ -51,3 +51,8 @@ You have been active for 39 days and completed:
 > one of the most powerful features of Python. You will practice developing a
 > client app and connecting to a server using the socket module. The project
 > will also get you acquainted with JSON and the time module.
+
+### Hard - Smart calculator
+>Apart from writing a useful program (everyone uses calculators!), you will
+>learn a lot about lists, strings and dictionaries. You will also get closer
+>experience with 2 important data structures: the stack and the queue.
