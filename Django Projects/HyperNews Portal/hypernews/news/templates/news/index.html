@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hyper news</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+</head>
+<body>
+    <h2>Hyper news</h2>
+    <form action="/news/" method="get">
+        {{ form }}
+        <input type="submit" value="Search">
+    </form>
+    {% for date, news in data.items|dictsortreversed:0 %}
+    {% if news|length > 0 %}
+    <h4>{{ date }}</h4>
+    {% endif %}
+    <ul>
+    {% for value in news|dictsortreversed:"created" %}
+        <li>
+            <a href="/news/{{ value.link }}/">{{ value.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+    {% endfor %}
+    <a href="/news/">News Home</a>
+    <br>
+    <a href="/news/create/">New</a>
+</body>
+</html>
+
