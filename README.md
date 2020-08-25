@@ -1,15 +1,15 @@
 # python-learning
-_Last update: 20.08.2020_
+_Last update: 25.08.2020_
 
 My journey on [hyperskill.org](https://hyperskill.org/).
 
-Topics completed 173/228 (69%).
+Topics completed 178/228 (70%).
 
-You have been active for 47 days and completed:
-- 14 projects
-- 1529 problems
-- 174 topics
-- 35 problems of the day
+You have been active for 49 days and completed:
+- 15 projects
+- 1579 problems
+- 182 topics
+- 37 problems of the day
 
 # Projects completed
 
@@ -66,3 +66,9 @@ STUCK AT LAST STAGE implementing recursion for hard AI
 
 ### 15. Challenging - HyperNews Portal (DJANGO)
 > You will learn the basics of Django: handle data through HTTP and work with templates. In addition, you will gain new skills working with JSON files and Python DateTime type.
+
+### 16. Challenging - Hypercar Service Center (DJANGO)
+> You will learn how to start a Django project, handle requests, and make templates for your HTML pages. After completing this project, you'll know how to build simple web services with Django.
+
+### 17. Challenging - HyperJob Agency (DJANGO)
+> You will learn how to create a dynamic web site with Django. You will practice your skills in creating content in the database and serving the data through HTTP. To make pages adaptive, you create templates instead of simple HTML pages. After completing this project, you will be able to create another client-server application by yourself.
