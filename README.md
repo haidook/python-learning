@@ -1,15 +1,15 @@
 # python-learning
-_Last update: 25.08.2020_
+_Last update: 26.08.2020_
 
 My journey on [hyperskill.org](https://hyperskill.org/).
 
-Topics completed 178/228 (70%).
+Topics completed 187/228 (73%).
 
-You have been active for 49 days and completed:
-- 15 projects
-- 1579 problems
-- 182 topics
-- 37 problems of the day
+You have been active for 50 days and completed:
+- 16 projects
+- 1660 problems
+- 191 topics
+- 38 problems of the day
 
 # Projects completed
 
